@@ -1,4 +1,4 @@
-#Canon-Time-Lapse-Calc
+# Canon-Time-Lapse-Calc
 
 A simple HTML/Bootstrap/JavaScript Canon-Time-Lapse-Calc.
 
